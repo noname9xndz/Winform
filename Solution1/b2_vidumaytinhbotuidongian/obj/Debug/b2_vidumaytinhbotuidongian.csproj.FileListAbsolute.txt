@@ -1,0 +1,15 @@
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\bin\Debug\b2_vidumaytinhbotuidongian.exe.config
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\bin\Debug\b2_vidumaytinhbotuidongian.exe
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\bin\Debug\b2_vidumaytinhbotuidongian.pdb
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.Form1.resources
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.Properties.Resources.resources
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.csproj.GenerateResource.cache
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.csproj.CoreCompileInputs.cache
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.exe
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.pdb
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.csprojAssemblyReference.cache
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.cach1.resources
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\bin\Debug\b1_test.exe
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\bin\Debug\b1_test.pdb
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\bin\Debug\b1_test.exe.config
+E:\project\test winform\Solution1\b2_vidumaytinhbotuidongian\obj\Debug\b2_vidumaytinhbotuidongian.csproj.CopyComplete

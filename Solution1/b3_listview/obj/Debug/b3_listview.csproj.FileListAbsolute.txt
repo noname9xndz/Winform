@@ -1,0 +1,11 @@
+E:\project\test winform\Solution1\b3_listview\bin\Debug\b3_listview.exe.config
+E:\project\test winform\Solution1\b3_listview\bin\Debug\b3_listview.exe
+E:\project\test winform\Solution1\b3_listview\bin\Debug\b3_listview.pdb
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.csprojAssemblyReference.cache
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.frmListView.resources
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.frmNhanVien.resources
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.Properties.Resources.resources
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.csproj.GenerateResource.cache
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.csproj.CoreCompileInputs.cache
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.exe
+E:\project\test winform\Solution1\b3_listview\obj\Debug\b3_listview.pdb
