@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "winform basic", "winform basic", "{A7DA61CE-69CB-44F8-96D7-CD8656EA91C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b1_test", "b1_test\b1_test.csproj", "{A492370D-6CC0-43A5-BF61-F5F41FB92B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A492370D-6CC0-43A5-BF61-F5F41FB92B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A492370D-6CC0-43A5-BF61-F5F41FB92B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A492370D-6CC0-43A5-BF61-F5F41FB92B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A492370D-6CC0-43A5-BF61-F5F41FB92B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A492370D-6CC0-43A5-BF61-F5F41FB92B82} = {A7DA61CE-69CB-44F8-96D7-CD8656EA91C0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3EEC54-3171-4513-804F-24D0F10978D3}
+	EndGlobalSection
+EndGlobal
