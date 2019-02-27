@@ -1,0 +1,10 @@
+E:\project\test winform\Solution1\b7_QLSV_dongian\bin\Debug\b7_QLSV_dongian.exe.config
+E:\project\test winform\Solution1\b7_QLSV_dongian\bin\Debug\b7_QLSV_dongian.exe
+E:\project\test winform\Solution1\b7_QLSV_dongian\bin\Debug\b7_QLSV_dongian.pdb
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.csprojAssemblyReference.cache
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.frmMain.resources
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.Properties.Resources.resources
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.csproj.GenerateResource.cache
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.csproj.CoreCompileInputs.cache
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.exe
+E:\project\test winform\Solution1\b7_QLSV_dongian\obj\Debug\b7_QLSV_dongian.pdb

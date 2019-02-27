@@ -1,0 +1,10 @@
+E:\project\test winform\Solution1\b9_DataGridView\bin\Debug\b9_DataGridView.exe.config
+E:\project\test winform\Solution1\b9_DataGridView\bin\Debug\b9_DataGridView.exe
+E:\project\test winform\Solution1\b9_DataGridView\bin\Debug\b9_DataGridView.pdb
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.csprojAssemblyReference.cache
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.Form1.resources
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.Properties.Resources.resources
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.csproj.GenerateResource.cache
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.csproj.CoreCompileInputs.cache
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.exe
+E:\project\test winform\Solution1\b9_DataGridView\obj\Debug\b9_DataGridView.pdb

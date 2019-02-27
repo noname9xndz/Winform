@@ -40,7 +40,6 @@ namespace b3_listview
             {
                 ListViewItem listViewItem = new ListViewItem(frmNhanVien.MaNV);
              // mỗi SubItems tương ứng với 1 cột
-                //listViewItem.SubItems.Add(frmNhanVien.MaNV);
                 listViewItem.SubItems.Add(frmNhanVien.TenNV);
                 listViewItem.SubItems.Add(frmNhanVien.LuongCB);
 

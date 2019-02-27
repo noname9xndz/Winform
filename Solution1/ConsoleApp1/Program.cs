@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             /*
              * http://www.iceteaviet.com/search/label/C%23%20Winform%20c%C4%83n%20b%E1%BA%A3n
+             * https://yinyangit.wordpress.com/2011/07/31/ado-net-tutorial-lesson-01-introduction-to-ado-net/
+             * https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview
              
              */
         }
