@@ -1,0 +1,6 @@
+E:\project\QLKTTEST\QLKTdemo\DTO\bin\Debug\DTO.dll
+E:\project\QLKTTEST\QLKTdemo\DTO\bin\Debug\DTO.pdb
+E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.dll
+E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.pdb

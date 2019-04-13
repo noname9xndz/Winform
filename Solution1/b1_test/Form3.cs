@@ -30,6 +30,7 @@ namespace b1_test
             {
                 gioiTinh = "Nữ";
             }
+
             string Sothich = "";
             if(ckbDuLich.Checked)
             {
@@ -47,6 +48,11 @@ namespace b1_test
             string thongTin = string.Format("Họ Tên : {0} , Ngày Sinh : {1} , Giới Tính : {2} ,Sở thích :{3} ",ten, ngaySinh.ToString("dd/MM/yyyy"), gioiTinh,Sothich);
 
             MessageBox.Show(thongTin, "tiêu đề : thông tin người dùng");
+        }
+
+        private void ckbPhimAnh_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

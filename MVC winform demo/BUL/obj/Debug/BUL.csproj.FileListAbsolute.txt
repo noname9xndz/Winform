@@ -1,0 +1,11 @@
+E:\project\QLKTTEST\QLKTdemo\BUL\bin\Debug\BUL.dll
+E:\project\QLKTTEST\QLKTdemo\BUL\bin\Debug\BUL.pdb
+E:\project\QLKTTEST\QLKTdemo\BUL\bin\Debug\DAL.dll
+E:\project\QLKTTEST\QLKTdemo\BUL\bin\Debug\DTO.dll
+E:\project\QLKTTEST\QLKTdemo\BUL\bin\Debug\DAL.pdb
+E:\project\QLKTTEST\QLKTdemo\BUL\bin\Debug\DTO.pdb
+E:\project\QLKTTEST\QLKTdemo\BUL\obj\Debug\BUL.csprojAssemblyReference.cache
+E:\project\QLKTTEST\QLKTdemo\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+E:\project\QLKTTEST\QLKTdemo\BUL\obj\Debug\BUL.csproj.CopyComplete
+E:\project\QLKTTEST\QLKTdemo\BUL\obj\Debug\BUL.dll
+E:\project\QLKTTEST\QLKTdemo\BUL\obj\Debug\BUL.pdb

@@ -101,6 +101,7 @@
             this.ckbPhimAnh.TabIndex = 20;
             this.ckbPhimAnh.Text = "Phim Ảnh";
             this.ckbPhimAnh.UseVisualStyleBackColor = true;
+            this.ckbPhimAnh.CheckedChanged += new System.EventHandler(this.ckbPhimAnh_CheckedChanged);
             // 
             // ckbTheThao
             // 
