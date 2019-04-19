@@ -12,8 +12,7 @@ namespace DAL
     {
         public static SqlConnection KetNoi()
         {
-            string sqlConnection = @"Data Source = NONAME\NONAME;
-Initial Catalog = DemoQLKyTuc;Integrated Security = False;User Id = sa; Password=noname9xnd;MultipleActiveResultSets=True";
+            string sqlConnection = @"Data Source = NONAME\NONAME;Initial Catalog = DemoQLKyTuc;Integrated Security = False;User Id = sa; Password=noname9xnd;MultipleActiveResultSets=True";
             SqlConnection conn = new SqlConnection(sqlConnection);
             
             if (conn.State == ConnectionState.Closed)

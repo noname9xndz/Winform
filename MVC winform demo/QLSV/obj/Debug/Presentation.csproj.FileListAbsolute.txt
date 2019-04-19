@@ -16,3 +16,21 @@ E:\project\QLKTTEST\QLKTdemo\QLSV\obj\Debug\Presentation.csproj.CoreCompileInput
 E:\project\QLKTTEST\QLKTdemo\QLSV\obj\Debug\Presentation.csproj.CopyComplete
 E:\project\QLKTTEST\QLKTdemo\QLSV\obj\Debug\QLSV.exe
 E:\project\QLKTTEST\QLKTdemo\QLSV\obj\Debug\QLSV.pdb
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\QLSV.exe.config
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\QLSV.exe
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\QLSV.pdb
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\BUL.dll
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\DTO.dll
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\DAL.dll
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\BUL.pdb
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\DTO.pdb
+E:\project\test winform\MVC winform demo\QLSV\bin\Debug\DAL.pdb
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\Presentation.csprojAssemblyReference.cache
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\QLSV.frmMain.resources
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\QLSV.SinhVien.frmSinhVien.resources
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\Presentation.csproj.CopyComplete
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\QLSV.exe
+E:\project\test winform\MVC winform demo\QLSV\obj\Debug\QLSV.pdb

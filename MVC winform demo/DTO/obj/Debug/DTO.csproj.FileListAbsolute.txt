@@ -4,3 +4,9 @@ E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
 E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.dll
 E:\project\QLKTTEST\QLKTdemo\DTO\obj\Debug\DTO.pdb
+E:\project\test winform\MVC winform demo\DTO\bin\Debug\DTO.dll
+E:\project\test winform\MVC winform demo\DTO\bin\Debug\DTO.pdb
+E:\project\test winform\MVC winform demo\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\project\test winform\MVC winform demo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\project\test winform\MVC winform demo\DTO\obj\Debug\DTO.dll
+E:\project\test winform\MVC winform demo\DTO\obj\Debug\DTO.pdb
