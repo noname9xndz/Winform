@@ -14,6 +14,7 @@ namespace QLSV.SinhVien
             InitializeComponent();
         }
         List<SinhVienDTO> listSV;
+        
         private void FrmSinhVien_Load(object sender, EventArgs e)
         {
             rdNam.Checked = true;
@@ -33,6 +34,7 @@ namespace QLSV.SinhVien
 
         private void BtnThem_Click(object sender, EventArgs e)
         {
+           
             try
             {
                 SinhVienDTO sinhVien = new SinhVienDTO
